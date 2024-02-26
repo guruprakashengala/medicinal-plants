@@ -1,0 +1,8 @@
+keras
+numpy
+opencv_python
+streamlit
+streamlit_webrtc
+easyocr
+opencv-python-headless
+Pillow
